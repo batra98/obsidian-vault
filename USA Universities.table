@@ -1,0 +1,157 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "531px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "count-all",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "affe6e86-be75-4a6c-a57e-470942162eff"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "index": 0,
+        "creationTime": 1686499336458,
+        "lastEditedTime": 1686499569812
+      },
+      {
+        "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "index": 1,
+        "creationTime": 1686499343266,
+        "lastEditedTime": 1686499622789
+      },
+      {
+        "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "index": 2,
+        "creationTime": 1686500053123,
+        "lastEditedTime": 1686500053123
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "d0dc0ccc-9d24-4fbf-9987-27aa7a2cc663",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "University Name"
+      },
+      {
+        "id": "6ce7e23a-f7f7-4392-a74a-d4afaca31d62",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "4b96184e-3ce3-4994-8bca-40698f6c36b2",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "Georgia Institute of Technology",
+        "tagIds": []
+      },
+      {
+        "id": "e1922062-2539-4f46-9502-84944af6b8b7",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "e292ddf8-ae51-4ffc-b882-a9a625c72250",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "The University of California, San Diego",
+        "tagIds": []
+      },
+      {
+        "id": "7c589231-ef7f-4778-ba19-f072adea4fef",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "4b66d032-0b44-4487-b50d-bae03922a701",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "3a5067e4-f3dd-4a82-a35d-1a8bf4a0575b",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "42ec2a2c-f1bc-4e25-83e8-918f6ef94981",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "f478e306-1308-4fe8-9af0-db8e764a64a8",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "a4637792-965b-4897-9cb2-f92e7c1d2280",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "87364608-26aa-4ed8-b17b-bcff9204ccb4",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.1"
+}
