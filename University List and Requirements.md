@@ -1,7 +1,7 @@
 https://www.reddit.com/r/gradadmissions/comments/12xhbfq/profile_evaluation_for_ms_in_computer_science/
 
 University List sorted by countries.
-- USA - ![[USA Universities.table]]
+- USA - [[USA Universities.table]]
 - Canada - [[Canada Universities.table]]
 - Germany - [[German Universities.table]]
 - Switzerland - [[Switzerland Universities.table]]
@@ -9,6 +9,9 @@ University List sorted by countries.
  
 
 ## US universities.
-## Georgia Tech
 
 [[Georgia Tech University]]
+[[University of California, San Diago]]
+[[University of Michigan]]
+
+

@@ -57,19 +57,19 @@
         "id": "feeae460-f959-489d-8b7c-3ebe03894925",
         "index": 0,
         "creationTime": 1686499336458,
-        "lastEditedTime": 1687055346281
+        "lastEditedTime": 1687094526657
       },
       {
         "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
         "index": 1,
         "creationTime": 1686499343266,
-        "lastEditedTime": 1686499622789
+        "lastEditedTime": 1687107567149
       },
       {
         "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "index": 2,
         "creationTime": 1686500053123,
-        "lastEditedTime": 1687054189516
+        "lastEditedTime": 1687109471815
       },
       {
         "id": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
@@ -160,7 +160,7 @@
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "https://cse.ucsd.edu/graduate/admissions",
         "tagIds": []
       },
       {
@@ -176,7 +176,7 @@
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "dateTime": null,
-        "markdown": "",
+        "markdown": " https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/",
         "tagIds": []
       },
       {
@@ -264,7 +264,7 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
         "dateTime": null,
-        "markdown": "[[Georgia Tech University.]]",
+        "markdown": "[[Georgia Tech University]]",
         "tagIds": []
       },
       {
@@ -272,7 +272,7 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "[[University of California, San Diago]]",
         "tagIds": []
       },
       {
@@ -280,7 +280,7 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "[[University of Michigan]]",
         "tagIds": []
       },
       {
