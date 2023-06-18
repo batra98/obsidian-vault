@@ -1,0 +1,74 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "512px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "810e7a77-6250-412b-b00b-bc953d4e03b0"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "index": 0,
+        "creationTime": 1687053936989,
+        "lastEditedTime": 1687053981962
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "bcae701e-c932-4dba-aacc-707876172612"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "9b0daa08-6f46-44ac-ac6a-e0ecc6dfe45b",
+        "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "University Name"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "c7bb85ee-fbe4-41d2-82a7-5ce8c42a7bbf",
+        "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "ETH Zurich",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "3cef82bd-8e6b-4de4-ac75-01ff11b7473e",
+        "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "d618a9e2-bcaa-44e5-b22e-214c38373f0d",
+        "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.6"
+}

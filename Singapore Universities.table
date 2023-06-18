@@ -1,0 +1,74 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "498px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "2d74b7c8-51df-4050-802c-0a7b273e777f"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "c688b318-74be-4b85-b19c-923724541c58",
+        "index": 0,
+        "creationTime": 1687053987632,
+        "lastEditedTime": 1687054028648
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "9a5400d7-7d13-48c5-bea9-e7e9851ed534",
+        "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "University Name"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "f830bfb6-3618-4748-88f5-3a83298d1f94",
+        "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": null,
+        "markdown": "National University of Singapore",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "e4b8c4a9-1755-409c-a952-6c4116ebb439",
+        "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "eda7117d-2f98-4876-be06-25de45fe4170",
+        "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.6"
+}

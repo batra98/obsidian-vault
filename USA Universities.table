@@ -20,11 +20,26 @@
         "id": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "sortDir": "default",
         "isVisible": true,
-        "width": "140px",
+        "width": "284px",
         "type": "text",
         "currencyType": "USD",
         "dateFormat": "mm/dd/yyyy",
-        "shouldWrapOverflow": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "219px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
         "tags": [],
         "functionType": "none",
         "aspectRatio": "16/9",
@@ -42,7 +57,7 @@
         "id": "feeae460-f959-489d-8b7c-3ebe03894925",
         "index": 0,
         "creationTime": 1686499336458,
-        "lastEditedTime": 1686499569812
+        "lastEditedTime": 1687055346281
       },
       {
         "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
@@ -54,7 +69,37 @@
         "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "index": 2,
         "creationTime": 1686500053123,
-        "lastEditedTime": 1686500053123
+        "lastEditedTime": 1687054189516
+      },
+      {
+        "id": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "index": 3,
+        "creationTime": 1687054207389,
+        "lastEditedTime": 1687054228837
+      },
+      {
+        "id": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "index": 4,
+        "creationTime": 1687054209361,
+        "lastEditedTime": 1687054253681
+      },
+      {
+        "id": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "index": 5,
+        "creationTime": 1687054255590,
+        "lastEditedTime": 1687054350207
+      },
+      {
+        "id": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "index": 6,
+        "creationTime": 1687054353309,
+        "lastEditedTime": 1687054366583
+      },
+      {
+        "id": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "index": 7,
+        "creationTime": 1687054354092,
+        "lastEditedTime": 1687054434635
       }
     ],
     "footerRows": [
@@ -76,7 +121,13 @@
         "id": "6ce7e23a-f7f7-4392-a74a-d4afaca31d62",
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
-        "markdown": "New Column"
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "5e0b630e-62db-48c3-b884-984534e7298f",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "University Note."
       }
     ],
     "bodyCells": [
@@ -93,7 +144,7 @@
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "https://catalog.gatech.edu/programs/computer-science-ms/",
         "tagIds": []
       },
       {
@@ -117,13 +168,157 @@
         "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
         "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "University of Michigan",
         "tagIds": []
       },
       {
         "id": "3a5067e4-f3dd-4a82-a35d-1a8bf4a0575b",
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "89906c9f-3c2c-4108-b5a1-8bd5c8884195",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "University of Pennsylvania",
+        "tagIds": []
+      },
+      {
+        "id": "98d551aa-4a57-4e3c-be7d-a47e147cda1c",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "df537f58-0108-4e84-934d-4d251dad7e04",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "The University of Illinois Urbana-Champaign",
+        "tagIds": []
+      },
+      {
+        "id": "5a7023c4-24ce-46ed-86dd-700e411e7c6f",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "3e06c444-6d2f-46ae-9c84-220ec168a440",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "Umass Ahmerest",
+        "tagIds": []
+      },
+      {
+        "id": "c6a3279a-8061-42c1-9407-b83b62e02b82",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c0ac1b39-cc18-4771-b447-2465aa25ddc9",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "Carnegie Mellon University",
+        "tagIds": []
+      },
+      {
+        "id": "9d4009e3-605b-437d-bb48-3e31070f4093",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "4bb545da-5ba5-49b8-91e9-69f3a2426fc6",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "University of Southern California",
+        "tagIds": []
+      },
+      {
+        "id": "90fe6857-01a5-4a80-812d-e6aa01839543",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "a071e660-ab6e-4514-98c7-795177c1c06e",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "[[Georgia Tech University.]]",
+        "tagIds": []
+      },
+      {
+        "id": "3ac124e2-c222-49f5-a2e6-871aa0cd2c95",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "fe698c44-470e-489a-95f0-3786d40cdba0",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "4471ae56-2fc6-419e-a56b-bb4bf77b0652",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "8355698f-5e74-4182-b9c8-b7a096a94458",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "fde66f31-a58e-4f94-98a3-91e5da96b1bf",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "4b4fda8a-6c5b-473a-922e-e90880c7adb6",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "f5df7cb7-56b9-4d49-a75b-835f0811d791",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
         "dateTime": null,
         "markdown": "",
         "tagIds": []
@@ -149,9 +344,19 @@
         "id": "87364608-26aa-4ed8-b17b-bcff9204ccb4",
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "f674838e-5c65-44e4-9c49-66f83e414151",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "aa608546-26a5-4a81-9e22-298f7f74e7ca",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
       }
     ],
     "filterRules": []
   },
-  "pluginVersion": "6.18.1"
+  "pluginVersion": "6.18.6"
 }

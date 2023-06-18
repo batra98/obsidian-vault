@@ -1,0 +1,130 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "420px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "count-unique",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "index": 0,
+        "creationTime": 1687053659446,
+        "lastEditedTime": 1687053759763
+      },
+      {
+        "id": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "index": 1,
+        "creationTime": 1687053790340,
+        "lastEditedTime": 1687053793651
+      },
+      {
+        "id": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "index": 2,
+        "creationTime": 1687053791490,
+        "lastEditedTime": 1687053803511
+      },
+      {
+        "id": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
+        "index": 3,
+        "creationTime": 1687053804405,
+        "lastEditedTime": 1687053804405
+      },
+      {
+        "id": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
+        "index": 4,
+        "creationTime": 1687053805206,
+        "lastEditedTime": 1687053805206
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "b4016027-d835-4f7b-956d-9170bde486d6",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "University Name"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "b7600f77-c0a7-407c-bdc3-31a0d4cb01dd",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "The University of British Columbia (UBC)",
+        "tagIds": []
+      },
+      {
+        "id": "1f738328-21b1-4e70-8388-d53f0b0fa4a8",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "The University of Toronto",
+        "tagIds": []
+      },
+      {
+        "id": "a1110924-efec-4c88-96eb-b434cc414e0c",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "McGill University",
+        "tagIds": []
+      },
+      {
+        "id": "9c1bb0a3-aa0d-45a8-ba85-2e6f193afc61",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "75b28dc0-3577-4e0a-87f3-938c2f5bed8b",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "032bc654-b99b-4d1e-8bf4-15484930a9f3",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "77b61e39-a077-4dad-a70a-0bb920d6ee6f",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.6"
+}

@@ -1,0 +1,74 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "0676f51c-9a8c-43de-ac73-1cd5bd7f97dc",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "416px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "16a6a19d-a610-4de2-9db9-a195d980143f"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "f242d1af-b61c-4292-8efb-8b46a3392da2",
+        "index": 0,
+        "creationTime": 1687053855980,
+        "lastEditedTime": 1687053896148
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "7e748938-753c-4f12-82dc-eca208fae7ff"
+      },
+      {
+        "id": "66e4183e-eace-4c67-909b-f695b3fd7fea"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "e0661995-74c9-4a25-914e-f58886371805",
+        "columnId": "0676f51c-9a8c-43de-ac73-1cd5bd7f97dc",
+        "rowId": "16a6a19d-a610-4de2-9db9-a195d980143f",
+        "markdown": "University Name"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "ea68fccf-b9b2-42cc-8d17-f819a55b0333",
+        "columnId": "0676f51c-9a8c-43de-ac73-1cd5bd7f97dc",
+        "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
+        "dateTime": null,
+        "markdown": "TU Munich",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "92985a24-970e-4db9-82cd-65a067054f2d",
+        "columnId": "0676f51c-9a8c-43de-ac73-1cd5bd7f97dc",
+        "rowId": "7e748938-753c-4f12-82dc-eca208fae7ff"
+      },
+      {
+        "id": "12e914d4-4578-4143-9d8c-5814bea15696",
+        "columnId": "0676f51c-9a8c-43de-ac73-1cd5bd7f97dc",
+        "rowId": "66e4183e-eace-4c67-909b-f695b3fd7fea"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.6"
+}
