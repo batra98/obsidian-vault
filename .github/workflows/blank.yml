@@ -11,7 +11,7 @@ jobs:
       - name: create file list
         id: files_list
         run: |
-          mkdir pdfs  # create output dir
+          mkdir -p pdfs  # create output dir
           echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
       - uses: docker://pandoc/latex:2.9
