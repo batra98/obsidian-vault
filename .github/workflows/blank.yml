@@ -19,7 +19,6 @@ jobs:
         with:
           args: --output=pdfs/result.pdf ${{ steps.files_list.outputs.files }}
           
-      - uses: actions/upload-artifact@v3
-        with:
-          name: pdfs
-          path: pdfs
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0
+
