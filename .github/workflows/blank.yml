@@ -20,5 +20,5 @@ jobs:
           
       - uses: actions/upload-artifact@v3
         with:
-          name: output
-          path: output
+          name: pdfs
+          path: pdfs
