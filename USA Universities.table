@@ -45,6 +45,21 @@
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -57,25 +72,25 @@
         "id": "feeae460-f959-489d-8b7c-3ebe03894925",
         "index": 0,
         "creationTime": 1686499336458,
-        "lastEditedTime": 1687094526657
+        "lastEditedTime": 1687194690429
       },
       {
         "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
         "index": 1,
         "creationTime": 1686499343266,
-        "lastEditedTime": 1687107567149
+        "lastEditedTime": 1687194816373
       },
       {
         "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
         "index": 2,
         "creationTime": 1686500053123,
-        "lastEditedTime": 1687109471815
+        "lastEditedTime": 1687194841948
       },
       {
         "id": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
         "index": 3,
         "creationTime": 1687054207389,
-        "lastEditedTime": 1687054228837
+        "lastEditedTime": 1687194873872
       },
       {
         "id": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
@@ -128,6 +143,12 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
         "markdown": "University Note."
+      },
+      {
+        "id": "ef73c715-6538-4fba-93c6-274a35d198bd",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "Cost in Dollars"
       }
     ],
     "bodyCells": [
@@ -192,7 +213,7 @@
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
         "dateTime": null,
-        "markdown": "",
+        "markdown": " https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/",
         "tagIds": []
       },
       {
@@ -288,7 +309,7 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "[[University of Pennsylvania]]",
         "tagIds": []
       },
       {
@@ -318,6 +339,70 @@
       {
         "id": "f5df7cb7-56b9-4d49-a75b-835f0811d791",
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "51de1fdf-64ab-4621-bf74-849f6e454fec",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "85 + 50",
+        "tagIds": []
+      },
+      {
+        "id": "e7bfa41c-f663-4103-869e-434d855c461c",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "155 + 50",
+        "tagIds": []
+      },
+      {
+        "id": "c9e6d453-b7b7-48f5-a1de-c91c8f15890e",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "90 + 50",
+        "tagIds": []
+      },
+      {
+        "id": "6e7a8550-a13f-4d90-b7a4-d10b0895ec8c",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "90 + 50",
+        "tagIds": []
+      },
+      {
+        "id": "4ff0266c-78a9-425e-b3d3-17abf5fdb219",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "6157bfd5-e7e3-4e4c-951d-44798ab35fa2",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c98eda5b-f140-403e-a6b7-4cf924bd3e48",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "40b4bc10-7a57-4d79-a70d-26486299774f",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
         "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
         "dateTime": null,
         "markdown": "",
@@ -353,6 +438,16 @@
       {
         "id": "aa608546-26a5-4a81-9e22-298f7f74e7ca",
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "90e8d4ef-5c3a-465c-bc8f-4a5a616add35",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "03a1c82c-d909-485a-9ae4-55194510bfbb",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
         "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
       }
     ],

@@ -13,5 +13,17 @@ University List sorted by countries.
 [[Georgia Tech University]]
 [[University of California, San Diago]]
 [[University of Michigan]]
+[[University of Pennsylvania]]
+
+
+## European Universities
+[[ETH Zurich]]
+[[TUM]]
+
+
+## Asian Universities
+[[National University of Singapore.]]
+
+
 
 

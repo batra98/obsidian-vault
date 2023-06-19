@@ -83,4 +83,4 @@ https://rackham.umich.edu/admissions/applying/application-fee-and-waivers/
 https://rackham.umich.edu/covid-19/rackham-admissions-and-covid-19/
 
 #### Contact
-csegradinfo-ms@ucsd.edu
+[csegradstaff@umich.edu](mailto:csegradstaff@umich.edu)
