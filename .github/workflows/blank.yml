@@ -7,10 +7,13 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
       - name: create file list
         id: files_list
         run: |
+          printf '"%s"\n' *.table | xargs -I {} python3 convert.py {}
           mkdir -p pdfs  # create output dir
           echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
 
