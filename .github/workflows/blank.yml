@@ -14,6 +14,7 @@ jobs:
         id: files_list
         run: |
           pip install pandas
+          pip install tabulate
           printf '"%s"\n' *.table | xargs -I {} python3 convert.py {}
           mkdir -p pdfs  # create output dir
           echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
