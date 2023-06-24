@@ -15,6 +15,51 @@
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "87609c61-11f5-4f57-8077-599be4141167",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "296px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -27,7 +72,7 @@
         "id": "64ea302f-a5f0-460f-9b36-012606e05042",
         "index": 0,
         "creationTime": 1687053936989,
-        "lastEditedTime": 1687053981962
+        "lastEditedTime": 1687581095377
       }
     ],
     "footerRows": [
@@ -44,6 +89,24 @@
         "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
         "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
         "markdown": "University Name"
+      },
+      {
+        "id": "187c12db-cf17-4c70-823b-99ba5b32818a",
+        "columnId": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "34330cdf-770b-4e22-8964-e7e7de7cc0ea",
+        "columnId": "87609c61-11f5-4f57-8077-599be4141167",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "University Note"
+      },
+      {
+        "id": "bf28c7db-6aef-41d3-90d4-71954c88c8c3",
+        "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "Cost (CHF)"
       }
     ],
     "bodyCells": [
@@ -53,6 +116,30 @@
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
         "dateTime": null,
         "markdown": "ETH Zurich",
+        "tagIds": []
+      },
+      {
+        "id": "5056d635-fe70-47c9-8e0f-84148f302bfa",
+        "columnId": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": " https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html",
+        "tagIds": []
+      },
+      {
+        "id": "01e3d70c-b1e9-4f28-ae57-8627a130ac93",
+        "columnId": "87609c61-11f5-4f57-8077-599be4141167",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "[[ETH Zurich]]",
+        "tagIds": []
+      },
+      {
+        "id": "3e298dfa-52f7-410f-824d-c522637da6da",
+        "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "150 + $50",
         "tagIds": []
       }
     ],
@@ -65,6 +152,36 @@
       {
         "id": "d618a9e2-bcaa-44e5-b22e-214c38373f0d",
         "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      },
+      {
+        "id": "11f35d91-5124-44df-ab9a-dd4996c99f13",
+        "columnId": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "a5ac6327-0dfc-4346-ac6d-e9b345887737",
+        "columnId": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      },
+      {
+        "id": "625d1403-d025-473a-b65a-0bb185986720",
+        "columnId": "87609c61-11f5-4f57-8077-599be4141167",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "1c2fa2e6-ec50-4482-b433-996005c2f670",
+        "columnId": "87609c61-11f5-4f57-8077-599be4141167",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      },
+      {
+        "id": "ad1e4a45-7086-402a-986a-87466dd7cf1c",
+        "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "8af9f01f-e36a-49b0-ba33-a8c86850dd08",
+        "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
         "rowId": "bcae701e-c932-4dba-aacc-707876172612"
       }
     ],

@@ -15,6 +15,51 @@
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "215px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "186bd553-a212-4394-9910-cf4903959478",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -27,7 +72,7 @@
         "id": "c688b318-74be-4b85-b19c-923724541c58",
         "index": 0,
         "creationTime": 1687053987632,
-        "lastEditedTime": 1687054028648
+        "lastEditedTime": 1687580882614
       }
     ],
     "footerRows": [
@@ -44,6 +89,24 @@
         "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
         "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
         "markdown": "University Name"
+      },
+      {
+        "id": "8fc9c077-90ac-4a5b-94f2-b3cb0532efbc",
+        "columnId": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "d3f22efd-b190-4efb-ad1e-86e0a6508d70",
+        "columnId": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "University Note"
+      },
+      {
+        "id": "fc2a04e5-f0d8-4905-96d3-5ebb62fd38a4",
+        "columnId": "186bd553-a212-4394-9910-cf4903959478",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "Cost (SGD)"
       }
     ],
     "bodyCells": [
@@ -53,6 +116,30 @@
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
         "markdown": "National University of Singapore",
+        "tagIds": []
+      },
+      {
+        "id": "99b282a9-dcec-4a22-8892-3b708b3c45d1",
+        "columnId": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": null,
+        "markdown": "https://www.comp.nus.edu.sg/programmes/pg/mcs/",
+        "tagIds": []
+      },
+      {
+        "id": "44b6ae30-d90a-413e-9fdf-7b12b6cdb16e",
+        "columnId": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": null,
+        "markdown": "[[National University of Singapore.]]",
+        "tagIds": []
+      },
+      {
+        "id": "7c318d9d-fb0a-4638-8012-f9d12e1a488d",
+        "columnId": "186bd553-a212-4394-9910-cf4903959478",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": null,
+        "markdown": "100 + 67.53",
         "tagIds": []
       }
     ],
@@ -65,6 +152,36 @@
       {
         "id": "eda7117d-2f98-4876-be06-25de45fe4170",
         "columnId": "365a7f63-5189-4cf9-936b-7915a0fda94d",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      },
+      {
+        "id": "470bcb8d-7b5a-450e-87e5-8d304165756d",
+        "columnId": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "679782c4-7283-4d7d-9b1f-546591414dad",
+        "columnId": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      },
+      {
+        "id": "1f3226cd-2ff9-432b-9c21-e423ded57cbd",
+        "columnId": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "4ac10fe1-1e21-4e72-a8e1-eee40609986a",
+        "columnId": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      },
+      {
+        "id": "b0838d46-0296-444a-8917-0a9e3eb1d65c",
+        "columnId": "186bd553-a212-4394-9910-cf4903959478",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "948422ad-1718-4044-ad66-9b0b956c8676",
+        "columnId": "186bd553-a212-4394-9910-cf4903959478",
         "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
       }
     ],

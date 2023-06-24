@@ -28,8 +28,8 @@ The fee for international applicants is $85.
 
 #### Application Requirements
 - Minimum GPA 3.0, though most candidates score higher
-- Three Letters of Recommendation
-- Statement of Purpose
+- [[#Recommendations|Three Letters of Recommendation]]
+- [[#What to write in SOP.| Statement of Purpose]]
 
 
 ### Before You Apply

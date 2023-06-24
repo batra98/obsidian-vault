@@ -16,6 +16,10 @@ University List sorted by countries.
 [[University of Pennsylvania]]
 
 
+## Canadian Universities
+[[University of Toronto]]
+
+
 ## European Universities
 [[ETH Zurich]]
 [[TUM]]

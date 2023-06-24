@@ -45,10 +45,10 @@ The fee for international applicants is $90.
 
 #### Application Requirements
 - **Biographical information** (part of the online application)
-- Personal Statement
+- [[#Personal Statement]]
 - Resume/CV
-- Two Letters of Recommendation
-- Transcripts
+- [[#Recommendations | Two Letters of Recommendation]]
+- [[#Transcripts]]
 
 
 #### Personal Statement

@@ -15,6 +15,51 @@
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
+      },
+      {
+        "id": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "280px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "294px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
       }
     ],
     "headerRows": [
@@ -27,13 +72,13 @@
         "id": "84a4027d-f612-4822-ae33-9b260a9f465c",
         "index": 0,
         "creationTime": 1687053659446,
-        "lastEditedTime": 1687053759763
+        "lastEditedTime": 1687536540631
       },
       {
         "id": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
         "index": 1,
         "creationTime": 1687053790340,
-        "lastEditedTime": 1687053793651
+        "lastEditedTime": 1687536547081
       },
       {
         "id": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
@@ -45,7 +90,7 @@
         "id": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
         "index": 3,
         "creationTime": 1687053804405,
-        "lastEditedTime": 1687053804405
+        "lastEditedTime": 1687536542470
       },
       {
         "id": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
@@ -68,6 +113,24 @@
         "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
         "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
         "markdown": "University Name"
+      },
+      {
+        "id": "f9f95e0f-0acd-4cf1-bffc-beaee025bd4d",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "02baad5d-58cc-4b2c-8cf9-a80e41e3bec2",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "University Note."
+      },
+      {
+        "id": "0d942e0f-a92d-4d12-b36e-f1196f2a17a7",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "Cost"
       }
     ],
     "bodyCells": [
@@ -76,7 +139,7 @@
         "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
         "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
         "dateTime": null,
-        "markdown": "The University of British Columbia (UBC)",
+        "markdown": "The University of Toronto",
         "tagIds": []
       },
       {
@@ -84,7 +147,7 @@
         "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
         "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
         "dateTime": null,
-        "markdown": "The University of Toronto",
+        "markdown": "The University of British Columbia (UBC)",
         "tagIds": []
       },
       {
@@ -110,6 +173,126 @@
         "dateTime": null,
         "markdown": "",
         "tagIds": []
+      },
+      {
+        "id": "95755143-0e76-4800-b7c4-9bfc066b3df2",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "https://www.sgs.utoronto.ca/programs/computer-science/",
+        "tagIds": []
+      },
+      {
+        "id": "42710273-58f3-432c-bb42-909023dcd06f",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "5a8216b0-b710-43e0-b9f5-5804aaef1c6f",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "cc9ce339-ea3a-468d-8ade-ca43155b4c4b",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c525deb4-b566-47aa-a0dd-16ca056354c7",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "1dc92b16-0aca-4e3b-bf26-fc3b1d7c426b",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "[[University of Toronto]]",
+        "tagIds": []
+      },
+      {
+        "id": "4be5d590-334c-4e2f-a55d-6d3984bfd59a",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "a90781d3-7140-480b-b38a-033272e42c6c",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "77ae0d01-925c-4936-b6b1-ef4bee02d64e",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c88b6451-7b1d-40fd-8d4d-53f3d672d337",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c9d3ef01-9091-40b9-a2e8-09fed08bf219",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "b3774fe1-6cef-4725-ae00-2ec042c497ae",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "5094aab2-c559-4a46-9309-07c6a2b214f2",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "afc3dcac-b521-4a25-b53e-a122dd220214",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "3e240661-f3f8-442c-b42f-c5f0f55fd097",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "45db18c2-d571-4001-b0ee-9f949ef0ccbd",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "3c71c4f6-2fac-4c7d-a56c-52ad957752c5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
       }
     ],
     "footerCells": [
@@ -121,6 +304,36 @@
       {
         "id": "77b61e39-a077-4dad-a70a-0bb920d6ee6f",
         "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "2919851d-235b-4ebf-a5ec-ddfb5fc17d9e",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "4f960f88-a492-4f45-ac7e-762d3604c6eb",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "2dbda728-28cd-4147-8d09-1489884419f7",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "2436226a-60c9-4842-bcc0-6f428f6e771e",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "278271d1-64ce-4086-b8bd-a44638e3dad2",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "7cc5b3a5-fcc4-4350-bf79-dba6d0a63ceb",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
         "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
       }
     ],

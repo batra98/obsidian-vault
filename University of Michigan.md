@@ -30,13 +30,11 @@ https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/ind
 
 
 #### Application Requirements
-- Statement of Purpose
-- Personal Statement
-- Resume/CV
-- Three Letters of Recommendation
-- Transcripts
-
-
+- [[#What to write in SOP. | Statement of Purpose]]
+- [[#Personal Statement]]
+- [[#Resume/CV]]
+- [[#Recommendations | Three Letters of Recommendation]]
+- [[#Transcripts]]
 
 
 ### What to write in SOP.
