@@ -1,3 +1,3 @@
-|    | University Name                  |
-|---:|:---------------------------------|
-|  0 | National University of Singapore |
+|    | Cost (SGD)   | University Name                  | University Note                       | MS CS Link                                     |
+|---:|:-------------|:---------------------------------|:--------------------------------------|:-----------------------------------------------|
+|  0 | 100 + 67.53  | National University of Singapore | [[National University of Singapore.]] | https://www.comp.nus.edu.sg/programmes/pg/mcs/ |

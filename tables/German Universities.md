@@ -1,3 +1,4 @@
-|    | University Name   |
-|---:|:------------------|
-|  0 | TU Munich         |
+|    | University Name   |   Cost in Dollars | University Note   | MS CS Link                                                                           |
+|---:|:------------------|------------------:|:------------------|:-------------------------------------------------------------------------------------|
+|  0 | TU Munich         |                 0 | [[TUM]]           | https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login                        |
+|    |                   |                   |                   | https://www.tum.de/en/studies/application/application-info-portal/online-application |
