@@ -13,6 +13,11 @@ jobs:
       - name: create file list
         id: files_list
         run: |
+          sudo apt-get update
+          sudo apt-get install texlive-latex-base
+          sudo apt-get install texlive-fonts-recommended
+          sudo apt-get install texlive-fonts-extra
+          sudo apt-get install texlive-latex-extra
           pip install pandas
           pip install tabulate
           sudo wget https://github.com/jgm/pandoc/releases/download/1.15.1/pandoc-1.15.1-1-amd64.deb
