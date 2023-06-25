@@ -17,11 +17,14 @@ jobs:
           pip install tabulate
           find . -type f  -name "*.table" | xargs -I {} python3 convert.py {}
           mkdir -p pdfs  # create output dir
+          echo "files=$(find . -type f  -name "*.md")" >> $GITHUB_OUTPUT
           
       
       - uses: docker://pandoc/latex:2.9
         with:
-          run: find . -type f  -name "*.md" | xargs -I {} pandoc --output=pdfs/{}.pdf {}
+          run: |
+            echo ${{ steps.files_list.outputs.files }}
+            xargs -I {} pandoc --pdf-engine=typst -t pdf {} -o {}.pdf
     
           
       - name: Git Auto Commit
