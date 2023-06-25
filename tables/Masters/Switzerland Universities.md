@@ -1,0 +1,3 @@
+|    | University Note   | Cost (CHF)   | University Name   | MS CS Link                                                                                     |
+|---:|:------------------|:-------------|:------------------|:-----------------------------------------------------------------------------------------------|
+|  0 | [[ETH Zurich]]    | 150 + $50    | ETH Zurich        | https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html |

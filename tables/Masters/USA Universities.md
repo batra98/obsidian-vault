@@ -1,0 +1,10 @@
+|    | University Name                             | University Note.                        | Cost in Dollars   | MS CS Link                                                                       |
+|---:|:--------------------------------------------|:----------------------------------------|:------------------|:---------------------------------------------------------------------------------|
+|  0 | University of Southern California           |                                         |                   |                                                                                  |
+|  1 | University of Michigan                      | [[University of Michigan]]              | 90 + 50           | https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/ |
+|  2 | The University of California, San Diego     | [[University of California, San Diago]] | 155 + 50          | https://cse.ucsd.edu/graduate/admissions                                         |
+|  3 | Carnegie Mellon University                  |                                         |                   |                                                                                  |
+|  4 | University of Pennsylvania                  | [[University of Pennsylvania]]          | 90 + 50           | https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/    |
+|  5 | Umass Ahmerest                              |                                         |                   |                                                                                  |
+|  6 | The University of Illinois Urbana-Champaign |                                         |                   |                                                                                  |
+|  7 | Georgia Institute of Technology             | [[Georgia Tech University]]             | 85 + 50           | https://catalog.gatech.edu/programs/computer-science-ms/                         |
