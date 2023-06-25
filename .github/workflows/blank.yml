@@ -21,7 +21,7 @@ jobs:
       
       - uses: docker://pandoc/latex:2.9
         with:
-          run: find . -type f  -name "*.md" | xargs -I {} pandoc -t pdf {} -o pdfs/{}.pdf
+          run: find . -type f  -name "*.md" | xargs -I {} pandoc --output=pdfs/{}.pdf {}
     
           
       - name: Git Auto Commit
