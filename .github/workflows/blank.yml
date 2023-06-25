@@ -19,7 +19,7 @@ jobs:
           sudo dpkg -i pandoc-1.15.1-1-amd64.deb
           find . -type f  -name "*.table" | xargs -I {} python3 convert.py {}
           mkdir -p pdfs  # create output dir
-          find . -type f  -name "*.md" | xargs -I {} pandoc -t pdf {} -o {}.pdf
+          find . -type f  -name "*.md" | xargs -I {} pandoc {} -o pdfs/{}.pdf
       
 
     
