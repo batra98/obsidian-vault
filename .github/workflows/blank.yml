@@ -15,16 +15,13 @@ jobs:
         run: |
           pip install pandas
           pip install tabulate
+          sudo wget https://github.com/jgm/pandoc/releases/download/1.15.1/pandoc-1.15.1-1-amd64.deb
+          sudo dpkg -i pandoc-1.15.1-1-amd64.deb
           find . -type f  -name "*.table" | xargs -I {} python3 convert.py {}
           mkdir -p pdfs  # create output dir
-          echo "files=$(find . -type f  -name "*.md")" >> $GITHUB_OUTPUT
-          
+          find . -type f  -name "*.md" | xargs -I {} pandoc --pdf-engine=typst -t pdf {} -o {}.pdf
       
-      - uses: docker://pandoc/latex:2.9
-        with:
-          run: |
-            echo ${{ steps.files_list.outputs.files }}
-            xargs -I {} pandoc --pdf-engine=typst -t pdf {} -o {}.pdf
+
     
           
       - name: Git Auto Commit
