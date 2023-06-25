@@ -26,7 +26,7 @@ University List sorted by countries.
 
 
 ## Asian Universities
-[[National University of Singapore.]]
+[[National University of Singapore]]
 
 
 
