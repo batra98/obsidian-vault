@@ -1,0 +1,395 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "420px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "count-unique"
+      },
+      {
+        "id": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "280px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "294px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "currency",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "sum"
+      },
+      {
+        "id": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "240px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "dd/mm/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "dd/mm/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "index": 0,
+        "creationTime": 1687053659446,
+        "lastEditedTime": 1689403674243
+      },
+      {
+        "id": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "index": 1,
+        "creationTime": 1687053790340,
+        "lastEditedTime": 1689404430397
+      },
+      {
+        "id": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "index": 2,
+        "creationTime": 1687053791490,
+        "lastEditedTime": 1689405849400
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "b4016027-d835-4f7b-956d-9170bde486d6",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "University Name"
+      },
+      {
+        "id": "f9f95e0f-0acd-4cf1-bffc-beaee025bd4d",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "02baad5d-58cc-4b2c-8cf9-a80e41e3bec2",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "University Note."
+      },
+      {
+        "id": "0d942e0f-a92d-4d12-b36e-f1196f2a17a7",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "Cost CDN $"
+      },
+      {
+        "id": "f36ff5e5-fb15-4ab9-999e-c4538f045965",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "Application opening"
+      },
+      {
+        "id": "0b5c613f-e6b1-4a49-b853-8b085bca1b85",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "961573d3-dfe4-43d8-bfcd-7a4ae3b0edb1",
+        "markdown": "Deadline"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "b7600f77-c0a7-407c-bdc3-31a0d4cb01dd",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "The University of Toronto",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "1f738328-21b1-4e70-8388-d53f0b0fa4a8",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "The University of British Columbia (UBC)",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "a1110924-efec-4c88-96eb-b434cc414e0c",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "McGill University",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "95755143-0e76-4800-b7c4-9bfc066b3df2",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "https://www.sgs.utoronto.ca/programs/computer-science/",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "42710273-58f3-432c-bb42-909023dcd06f",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": " https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "5a8216b0-b710-43e0-b9f5-5804aaef1c6f",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": " https://www.mcgill.ca/gradapplicants/programs/computer-science",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "1dc92b16-0aca-4e3b-bf26-fc3b1d7c426b",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "[[University of Toronto]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4be5d590-334c-4e2f-a55d-6d3984bfd59a",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "[[University of British Columbia]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "a90781d3-7140-480b-b38a-033272e42c6c",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "[[McGill University]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "c9d3ef01-9091-40b9-a2e8-09fed08bf219",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": null,
+        "markdown": "125",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "b3774fe1-6cef-4725-ae00-2ec042c497ae",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": null,
+        "markdown": "168.25",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "5094aab2-c559-4a46-9309-07c6a2b214f2",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": null,
+        "markdown": "132.9",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "284142fc-97bc-44be-bb88-c4f296de094b",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": 1690828200000,
+        "markdown": "August",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "00f6e88f-e8d3-4dd9-bc74-40e8ec3c08c2",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": 1694716200000,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "3133bfdc-af83-47ff-bd00-8ee1567b7804",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": 1694716200000,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "d2e5d99b-ea44-4f57-afe5-000103a49a20",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "84a4027d-f612-4822-ae33-9b260a9f465c",
+        "dateTime": 1701369000000,
+        "markdown": "Tentatively 1 December",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "61bce438-8edd-47d2-ab68-37fdf366e8c5",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "a4becc5b-97b6-4d05-ab6d-5680945d564b",
+        "dateTime": 1702578600000,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "8be6dde7-cb8f-4da3-bb16-1a7dd98d90f7",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "5de53e90-c232-4a63-a419-897e0ff2f7d6",
+        "dateTime": 1702578600000,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "032bc654-b99b-4d1e-8bf4-15484930a9f3",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "77b61e39-a077-4dad-a70a-0bb920d6ee6f",
+        "columnId": "adb6df13-be79-4387-8056-93695bd4a08d",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "2919851d-235b-4ebf-a5ec-ddfb5fc17d9e",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "4f960f88-a492-4f45-ac7e-762d3604c6eb",
+        "columnId": "c252a199-7549-42d6-bfa1-ff7bd8624af8",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "2dbda728-28cd-4147-8d09-1489884419f7",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "2436226a-60c9-4842-bcc0-6f428f6e771e",
+        "columnId": "2a557b6e-0b9b-46f6-8488-0a9d2da701be",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "278271d1-64ce-4086-b8bd-a44638e3dad2",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "7cc5b3a5-fcc4-4350-bf79-dba6d0a63ceb",
+        "columnId": "64d5130e-dc70-4cb3-8bfe-f8a30b4de57f",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "29712c31-9641-44cc-bfc7-a739cd74abbb",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "19778e20-1dec-4e8b-a4f5-9a9ee455274f",
+        "columnId": "a676c0ca-bdfe-45eb-b8c9-adf82315d01c",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      },
+      {
+        "id": "46bd7549-8aa5-41f3-8796-1cb38b7bb5bb",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "f78cd9e8-bc10-4217-a9f3-7b37aace8f9f"
+      },
+      {
+        "id": "99bde590-ec6d-47df-9d38-ca329ff64c3f",
+        "columnId": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
+        "rowId": "766cd713-ebce-4289-8b66-e98b07e856a7"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "8.0.0"
+}

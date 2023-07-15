@@ -1,0 +1,20 @@
+name: Advanced Usage
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11' 
+      - name: create file list
+        id: files_list
+        run: |
+          pip install pandas
+          pip install tabulate
+          find . -type f  -name "*.loom" | xargs -I {} python3 convert.py {}    
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.16.0

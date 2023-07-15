@@ -1,0 +1,695 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "531px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "count-all"
+      },
+      {
+        "id": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "284px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "219px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "228px",
+        "type": "currency",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "sum"
+      },
+      {
+        "id": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "198px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "affe6e86-be75-4a6c-a57e-470942162eff"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "index": 0,
+        "creationTime": 1686499336458,
+        "lastEditedTime": 1689407590284
+      },
+      {
+        "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "index": 1,
+        "creationTime": 1686499343266,
+        "lastEditedTime": 1689407605126
+      },
+      {
+        "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "index": 2,
+        "creationTime": 1686500053123,
+        "lastEditedTime": 1687194841948
+      },
+      {
+        "id": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "index": 3,
+        "creationTime": 1687054207389,
+        "lastEditedTime": 1687194873872
+      },
+      {
+        "id": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "index": 4,
+        "creationTime": 1687054255590,
+        "lastEditedTime": 1688748064314
+      },
+      {
+        "id": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "index": 5,
+        "creationTime": 1687054353309,
+        "lastEditedTime": 1687054366583
+      },
+      {
+        "id": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "index": 6,
+        "creationTime": 1687054354092,
+        "lastEditedTime": 1687054434635
+      },
+      {
+        "id": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "index": 7,
+        "creationTime": 1687054209361,
+        "lastEditedTime": 1687054253681
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "d0dc0ccc-9d24-4fbf-9987-27aa7a2cc663",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "University Name"
+      },
+      {
+        "id": "6ce7e23a-f7f7-4392-a74a-d4afaca31d62",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "MS CS Link"
+      },
+      {
+        "id": "5e0b630e-62db-48c3-b884-984534e7298f",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "University Note."
+      },
+      {
+        "id": "ef73c715-6538-4fba-93c6-274a35d198bd",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "Cost in Dollars"
+      },
+      {
+        "id": "02e1079c-8879-4b9f-b572-75f673a1c3c6",
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "Application Opening "
+      },
+      {
+        "id": "169d4735-8b24-47c7-aac4-8e8e7907d2f8",
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "affe6e86-be75-4a6c-a57e-470942162eff",
+        "markdown": "Deadline"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "4b96184e-3ce3-4994-8bca-40698f6c36b2",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "Georgia Institute of Technology",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "e1922062-2539-4f46-9502-84944af6b8b7",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "https://catalog.gatech.edu/programs/computer-science-ms/",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "e292ddf8-ae51-4ffc-b882-a9a625c72250",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "The University of California, San Diego",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "7c589231-ef7f-4778-ba19-f072adea4fef",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "https://cse.ucsd.edu/graduate/admissions",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4b66d032-0b44-4487-b50d-bae03922a701",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "University of Michigan",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "3a5067e4-f3dd-4a82-a35d-1a8bf4a0575b",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": " https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "89906c9f-3c2c-4108-b5a1-8bd5c8884195",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "University of Pennsylvania",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "98d551aa-4a57-4e3c-be7d-a47e147cda1c",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": " https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "df537f58-0108-4e84-934d-4d251dad7e04",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "The University of Illinois Urbana-Champaign",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "5a7023c4-24ce-46ed-86dd-700e411e7c6f",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "3e06c444-6d2f-46ae-9c84-220ec168a440",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "Umass Ahmerest",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "c6a3279a-8061-42c1-9407-b83b62e02b82",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": " https://www.cics.umass.edu/grads/ms-requirements",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "c0ac1b39-cc18-4771-b447-2465aa25ddc9",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "Carnegie Mellon University",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "9d4009e3-605b-437d-bb48-3e31070f4093",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4bb545da-5ba5-49b8-91e9-69f3a2426fc6",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "University of Southern California",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "90fe6857-01a5-4a80-812d-e6aa01839543",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "a071e660-ab6e-4514-98c7-795177c1c06e",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "[[Georgia Tech University]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "3ac124e2-c222-49f5-a2e6-871aa0cd2c95",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "[[University of California, San Diago]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "fe698c44-470e-489a-95f0-3786d40cdba0",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "[[University of Michigan]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4471ae56-2fc6-419e-a56b-bb4bf77b0652",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "[[University of Pennsylvania]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "8355698f-5e74-4182-b9c8-b7a096a94458",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "fde66f31-a58e-4f94-98a3-91e5da96b1bf",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "[[UMass Amherst]]",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4b4fda8a-6c5b-473a-922e-e90880c7adb6",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "f5df7cb7-56b9-4d49-a75b-835f0811d791",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "51de1fdf-64ab-4621-bf74-849f6e454fec",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "85",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "e7bfa41c-f663-4103-869e-434d855c461c",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "c9e6d453-b7b7-48f5-a1de-c91c8f15890e",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "90 + 50",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "6e7a8550-a13f-4d90-b7a4-d10b0895ec8c",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "90 + 50",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "4ff0266c-78a9-425e-b3d3-17abf5fdb219",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "6157bfd5-e7e3-4e4c-951d-44798ab35fa2",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "85 + 50",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "c98eda5b-f140-403e-a6b7-4cf924bd3e48",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "40b4bc10-7a57-4d79-a70d-26486299774f",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "f588149f-8f97-4c7b-9794-94b14fe8e84c",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "218ad1c6-38f2-4dcb-adbb-eda57921e741",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "51fea5f2-8e99-416c-97bc-01a6a2c215f3",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "003042d8-f8e5-4dd5-8680-c7d3d7dc0759",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "8e6f9dff-a390-4895-a965-179809ff091f",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "5b043e69-48ed-4ad3-a85e-1e41e5e2910f",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "84700d5a-b32e-4319-ab78-39df888d1408",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "86a7048e-dd71-44d8-ac3e-941a56315cd0",
+        "isExternalLink": false,
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "83ef459e-4e16-48ea-8b38-1513bc42d238",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "ff75b499-4f1e-42b2-ba5d-516722e11809",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "71871a44-97c7-4241-892e-1e1a4e9cfb8e",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "a8fca1e2-299a-4c3d-b59a-52976e43acda",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "aa845fd3-d72e-4893-b497-b6bb950d3f27",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "83622259-c094-4425-a69c-2c6e644e8129",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "16c0fe36-15ed-4bdd-8452-9a4a4f4a9f3b",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "5c048848-f870-47f1-a677-aa4b1c830410",
+        "isExternalLink": false,
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "42ec2a2c-f1bc-4e25-83e8-918f6ef94981",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "f478e306-1308-4fe8-9af0-db8e764a64a8",
+        "columnId": "a1af9f0f-fcca-49fe-8b27-8970e9a64e66",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "a4637792-965b-4897-9cb2-f92e7c1d2280",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "87364608-26aa-4ed8-b17b-bcff9204ccb4",
+        "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "f674838e-5c65-44e4-9c49-66f83e414151",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "aa608546-26a5-4a81-9e22-298f7f74e7ca",
+        "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "90e8d4ef-5c3a-465c-bc8f-4a5a616add35",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "03a1c82c-d909-485a-9ae4-55194510bfbb",
+        "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "27fb3afa-605c-49d2-8f9f-52bb6a03d4ae",
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "3b861a60-1bcc-409e-9b47-8f9946620d5d",
+        "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      },
+      {
+        "id": "3633c24d-47ef-4b1e-989e-2f228c23510e",
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "6398ecd1-e079-4cb8-8c6b-88b12f3ada92"
+      },
+      {
+        "id": "2885810f-97cd-40b1-b938-e5b07aaa2d54",
+        "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
+        "rowId": "979ea4a9-07ba-4649-a175-7efb3b1dbfc3"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "8.0.0"
+}
