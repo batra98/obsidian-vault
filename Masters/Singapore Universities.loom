@@ -11,7 +11,7 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
+        "functionType": "count-all",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
@@ -72,7 +72,7 @@
         "id": "c688b318-74be-4b85-b19c-923724541c58",
         "index": 0,
         "creationTime": 1687053987632,
-        "lastEditedTime": 1687580882614
+        "lastEditedTime": 1688662390853
       }
     ],
     "footerRows": [
@@ -131,7 +131,7 @@
         "columnId": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
-        "markdown": "[[National University of Singapore.]]",
+        "markdown": "[[National University of Singapore]]",
         "tagIds": []
       },
       {

@@ -11,7 +11,7 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
+        "functionType": "count-all",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
@@ -73,6 +73,12 @@
         "index": 0,
         "creationTime": 1687053936989,
         "lastEditedTime": 1687581095377
+      },
+      {
+        "id": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "index": 1,
+        "creationTime": 1688743054313,
+        "lastEditedTime": 1688743645728
       }
     ],
     "footerRows": [
@@ -138,6 +144,38 @@
         "id": "3e298dfa-52f7-410f-824d-c522637da6da",
         "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "150 + $50",
+        "tagIds": []
+      },
+      {
+        "id": "d3910eb0-5971-4490-8baf-7aada6257cca",
+        "columnId": "d24681f6-89cc-44bd-b18e-5a9613cf9cde",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "dateTime": null,
+        "markdown": "EPFL",
+        "tagIds": []
+      },
+      {
+        "id": "5f2ce3f2-4744-4106-94ae-80cdd01faf8f",
+        "columnId": "fba87115-d53a-4669-9594-fb62060c1b6f",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "dateTime": null,
+        "markdown": "https://www.epfl.ch/education/master/programs/computer-science/",
+        "tagIds": []
+      },
+      {
+        "id": "41c08ab3-eff1-422a-9bdc-0c722a1a1419",
+        "columnId": "87609c61-11f5-4f57-8077-599be4141167",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "dateTime": null,
+        "markdown": "[[EPFL]]",
+        "tagIds": []
+      },
+      {
+        "id": "ce08dde3-a021-4240-9dde-5999b2107d74",
+        "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "dateTime": null,
         "markdown": "150 + $50",
         "tagIds": []
