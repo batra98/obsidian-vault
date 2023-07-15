@@ -4,20 +4,20 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>My physical brain is <div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>💤 </div> but my digital brain is active.</div>"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "Welcome to me second brain 🧠"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/batra98/obsidian-vault"
 # (Optional) Site title in navbar
-SITE_TITLE = "Batra's Second 🧠"
+SITE_TITLE = "Gaurav's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
-SITE_TITLE_TAB = ""
+SITE_TITLE_TAB = "Gaurav's Second 🧠"
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://admirable-taffy-5f9a9a.netlify.app"
 # (Optional) Site Timezone
@@ -74,3 +74,26 @@ GRAPH_OPTIONS = """
         	},
         }
         """
+STRICT_LINE_BREAKS = "y"
+
+
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = "https://admirable-taffy-5f9a9a.netlify.app"
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]
