@@ -60,6 +60,6 @@ bodyCells.columns = headerCells.values[0]
 file_name = change_ext(filename=file_name, new_ext="md")
 
 base_path, file_name = file_name.rsplit("/", 1)
-os.makedirs(f"tables/{base_path}", exist_ok=True)
-with open(f"tables/{base_path}/{file_name}", "w") as f:
+os.makedirs(f"Tables/{base_path}", exist_ok=True)
+with open(f"Tables/{base_path}/{file_name}", "w") as f:
     bodyCells.to_markdown(f)
