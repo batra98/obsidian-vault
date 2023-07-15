@@ -1,4 +1,0 @@
-|    | University Note   | Cost (CHF)   | University Name   | MS CS Link                                                                                     |
-|---:|:------------------|:-------------|:------------------|:-----------------------------------------------------------------------------------------------|
-|  0 | [[EPFL]]          | 150 + $50    | EPFL              | https://www.epfl.ch/education/master/programs/computer-science/                                |
-|  1 | [[ETH Zurich]]    | 150 + $50    | ETH Zurich        | https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html |
