@@ -11,10 +11,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "count-all",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "count-all"
       },
       {
         "id": "a8affe4c-9ef7-46cb-b6d8-6c7db5971de5",
@@ -26,10 +26,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "a59a4b95-0eaa-40b1-946b-a59b9535396e",
@@ -41,10 +41,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "186bd553-a212-4394-9910-cf4903959478",
@@ -56,8 +56,38 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "841df0d6-1280-4482-b1ba-7c3408d09c8f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "230px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "ef7ef631-78fb-4bc5-98aa-ab44723b3ae8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
       }
@@ -72,7 +102,7 @@
         "id": "c688b318-74be-4b85-b19c-923724541c58",
         "index": 0,
         "creationTime": 1687053987632,
-        "lastEditedTime": 1688662390853
+        "lastEditedTime": 1689791877459
       }
     ],
     "footerRows": [
@@ -107,6 +137,18 @@
         "columnId": "186bd553-a212-4394-9910-cf4903959478",
         "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
         "markdown": "Cost (SGD)"
+      },
+      {
+        "id": "5d04a428-35e4-4b54-9b1c-b63511e195aa",
+        "columnId": "841df0d6-1280-4482-b1ba-7c3408d09c8f",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "Application Opening"
+      },
+      {
+        "id": "5d39eed9-f263-4769-b0ad-55d623da540c",
+        "columnId": "ef7ef631-78fb-4bc5-98aa-ab44723b3ae8",
+        "rowId": "2d74b7c8-51df-4050-802c-0a7b273e777f",
+        "markdown": "New Column"
       }
     ],
     "bodyCells": [
@@ -116,7 +158,8 @@
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
         "markdown": "National University of Singapore",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "99b282a9-dcec-4a22-8892-3b708b3c45d1",
@@ -124,7 +167,8 @@
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
         "markdown": "https://www.comp.nus.edu.sg/programmes/pg/mcs/",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "44b6ae30-d90a-413e-9fdf-7b12b6cdb16e",
@@ -132,7 +176,8 @@
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
         "markdown": "[[National University of Singapore]]",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "7c318d9d-fb0a-4638-8012-f9d12e1a488d",
@@ -140,6 +185,25 @@
         "rowId": "c688b318-74be-4b85-b19c-923724541c58",
         "dateTime": null,
         "markdown": "100 + 67.53",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "1506b814-7d5f-4a84-b8a3-1544ede8cfa8",
+        "isExternalLink": false,
+        "columnId": "841df0d6-1280-4482-b1ba-7c3408d09c8f",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": 1704047400000,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "337bd700-268a-4f69-8ab3-801e5768194e",
+        "isExternalLink": false,
+        "columnId": "ef7ef631-78fb-4bc5-98aa-ab44723b3ae8",
+        "rowId": "c688b318-74be-4b85-b19c-923724541c58",
+        "dateTime": 1704133800000,
+        "markdown": "D",
         "tagIds": []
       }
     ],
@@ -183,9 +247,29 @@
         "id": "948422ad-1718-4044-ad66-9b0b956c8676",
         "columnId": "186bd553-a212-4394-9910-cf4903959478",
         "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      },
+      {
+        "id": "0d1c732b-453c-4d6d-bc39-1193751bd035",
+        "columnId": "841df0d6-1280-4482-b1ba-7c3408d09c8f",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "b12c486e-dac9-40f2-9aeb-fa828dc37c03",
+        "columnId": "841df0d6-1280-4482-b1ba-7c3408d09c8f",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
+      },
+      {
+        "id": "fede559c-a348-4b84-bbfe-b251c3e895d7",
+        "columnId": "ef7ef631-78fb-4bc5-98aa-ab44723b3ae8",
+        "rowId": "27754539-9d55-4c01-a3a6-ac4d9de661c6"
+      },
+      {
+        "id": "f0e5df65-c0a4-4254-baa9-be66e596cbb3",
+        "columnId": "ef7ef631-78fb-4bc5-98aa-ab44723b3ae8",
+        "rowId": "1acc9708-37ac-4cf0-ab60-89268c41b851"
       }
     ],
     "filterRules": []
   },
-  "pluginVersion": "6.18.6"
+  "pluginVersion": "8.0.0"
 }

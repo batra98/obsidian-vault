@@ -11,10 +11,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "count-all",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "count-all"
       },
       {
         "id": "fba87115-d53a-4669-9594-fb62060c1b6f",
@@ -26,10 +26,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "87609c61-11f5-4f57-8077-599be4141167",
@@ -41,10 +41,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
@@ -56,8 +56,38 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "none"
+      },
+      {
+        "id": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "263px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
       }
@@ -113,6 +143,18 @@
         "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
         "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
         "markdown": "Cost (CHF)"
+      },
+      {
+        "id": "d2b20101-ac33-4dab-afbe-775d0260b274",
+        "columnId": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "Application Opening"
+      },
+      {
+        "id": "6a7fa9a6-2b3b-4100-83a0-bcff21d4c484",
+        "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
+        "markdown": "New Column"
       }
     ],
     "bodyCells": [
@@ -122,7 +164,8 @@
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
         "dateTime": null,
         "markdown": "ETH Zurich",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "5056d635-fe70-47c9-8e0f-84148f302bfa",
@@ -130,7 +173,8 @@
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
         "dateTime": null,
         "markdown": " https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "01e3d70c-b1e9-4f28-ae57-8627a130ac93",
@@ -138,7 +182,8 @@
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
         "dateTime": null,
         "markdown": "[[ETH Zurich]]",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "3e298dfa-52f7-410f-824d-c522637da6da",
@@ -146,7 +191,8 @@
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
         "dateTime": null,
         "markdown": "150 + $50",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "d3910eb0-5971-4490-8baf-7aada6257cca",
@@ -154,7 +200,8 @@
         "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "dateTime": null,
         "markdown": "EPFL",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "5f2ce3f2-4744-4106-94ae-80cdd01faf8f",
@@ -162,7 +209,8 @@
         "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "dateTime": null,
         "markdown": "https://www.epfl.ch/education/master/programs/computer-science/",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "41c08ab3-eff1-422a-9bdc-0c722a1a1419",
@@ -170,7 +218,8 @@
         "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "dateTime": null,
         "markdown": "[[EPFL]]",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "ce08dde3-a021-4240-9dde-5999b2107d74",
@@ -178,6 +227,43 @@
         "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "dateTime": null,
         "markdown": "150 + $50",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "a3b36574-5316-4924-a3e1-e512b90e87bc",
+        "isExternalLink": false,
+        "columnId": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "b068f0c8-ae7a-4b3e-8d83-29c94505e22d",
+        "isExternalLink": false,
+        "columnId": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "7e4b51f5-d7e7-4c70-b1a2-0833f62a336f",
+        "isExternalLink": false,
+        "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "fa3ed351-66a5-438f-8687-f95a4465baec",
+        "isExternalLink": false,
+        "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
+        "dateTime": null,
+        "markdown": "",
         "tagIds": []
       }
     ],
@@ -221,9 +307,29 @@
         "id": "8af9f01f-e36a-49b0-ba33-a8c86850dd08",
         "columnId": "cbcb30a2-6f81-4717-b1c2-52e14d932c7c",
         "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      },
+      {
+        "id": "0ea66c67-a06a-4373-b2a0-14236789dc40",
+        "columnId": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "37a80b36-0a0c-4dc3-975c-951138c81d63",
+        "columnId": "f02d658c-debe-46eb-884b-446aca7c8db8",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
+      },
+      {
+        "id": "76ecb256-bb6a-4724-9665-8333b7cbbed1",
+        "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "rowId": "76eddeb5-6755-4bea-9153-c05d357aa9a7"
+      },
+      {
+        "id": "c6cd2097-a8ab-4fd9-b324-0ae2c2f91ef9",
+        "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
+        "rowId": "bcae701e-c932-4dba-aacc-707876172612"
       }
     ],
     "filterRules": []
   },
-  "pluginVersion": "6.18.6"
+  "pluginVersion": "8.0.0"
 }
