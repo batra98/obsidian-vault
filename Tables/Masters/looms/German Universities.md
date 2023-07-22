@@ -1,4 +1,5 @@
-|    | University Name   |   Cost in Dollars | University Note   | MS CS Link                                                                           |
-|---:|:------------------|------------------:|:------------------|:-------------------------------------------------------------------------------------|
-|  0 | TU Munich         |                 0 | [[TUM]]           | https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login                        |
-|    |                   |                   |                   | https://www.tum.de/en/studies/application/application-info-portal/online-application |
+|    | University Name   | Deadline   | Cost in Dollars   | University Note   | Application Opening                                                                  | MS CS Link   |
+|---:|:------------------|:-----------|:------------------|:------------------|:-------------------------------------------------------------------------------------|:-------------|
+|  0 | TU Munich         | True       | 31/03/2024        | False             | 0                                                                                    | True         |
+|  1 | [[TUM]]           | True       |                   | False             | https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login                        | True         |
+|    |                   |            |                   |                   | https://www.tum.de/en/studies/application/application-info-portal/online-application |              |
