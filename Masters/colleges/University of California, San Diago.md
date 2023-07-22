@@ -6,7 +6,7 @@
 Application Portal - https://connect.grad.ucsd.edu/apply/
 
 Program Link - https://cse.ucsd.edu/graduate/admissions
-Application StartDate - Opened on 7th September 2022 (Fall'23)
+Application StartDate - Opened on 6th September 2023.
 Application Deadline - February 1
 
 The fee for international applicants is $155.

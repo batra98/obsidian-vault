@@ -5,6 +5,8 @@
 
 Application Portal - https://applygrad.umass.edu/apply/?_gl=1*13yj036*_gcl_au*MTk0NTM4MDQ5MC4xNjg4NzQ3MDc2*_ga*MTczODQzNjg0OC4xNjg4NzQ3MDc2*_ga_21RLS0L7EB*MTY4ODc0NzA3Ni4xLjEuMTY4ODc0NzU1Mi4wLjAuMA..&_ga=2.121867659.162192711.1688747076-1738436848.1688747076
 
+https://www.umass.edu/graduate/apply/how-apply
+
 
 Program Link - https://www.cics.umass.edu/grads/ms-requirements
 

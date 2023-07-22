@@ -11,10 +11,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "count-all",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "count-all"
       },
       {
         "id": "dd4f1b4a-edc6-4faa-adce-c9babf2614ab",
@@ -26,10 +26,10 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "7b8136c2-cc12-443f-bada-bae58e3f6561",
@@ -41,23 +41,53 @@
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
         "horizontalPadding": "unset",
-        "verticalPadding": "unset"
+        "verticalPadding": "unset",
+        "calculationType": "none"
       },
       {
         "id": "4bfa9d40-3e19-41f8-b10f-2b79835de6b8",
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "text",
+        "type": "currency",
         "currencyType": "USD",
         "dateFormat": "mm/dd/yyyy",
         "shouldWrapOverflow": false,
         "tags": [],
-        "functionType": "none",
         "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "calculationType": "sum"
+      },
+      {
+        "id": "868b4d28-cdb1-4121-bfc0-f941e385c309",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "date",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "2de98603-78eb-4eea-8d53-9455a4bb92ad",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
         "horizontalPadding": "unset",
         "verticalPadding": "unset"
       }
@@ -72,7 +102,7 @@
         "id": "f242d1af-b61c-4292-8efb-8b46a3392da2",
         "index": 0,
         "creationTime": 1687053855980,
-        "lastEditedTime": 1687580523568
+        "lastEditedTime": 1689615274011
       }
     ],
     "footerRows": [
@@ -107,6 +137,18 @@
         "columnId": "4bfa9d40-3e19-41f8-b10f-2b79835de6b8",
         "rowId": "16a6a19d-a610-4de2-9db9-a195d980143f",
         "markdown": "Cost in Dollars"
+      },
+      {
+        "id": "b9134ff5-26a4-482a-aa1d-8c0bed986155",
+        "columnId": "868b4d28-cdb1-4121-bfc0-f941e385c309",
+        "rowId": "16a6a19d-a610-4de2-9db9-a195d980143f",
+        "markdown": "Application Opening"
+      },
+      {
+        "id": "101bde95-9ccc-421d-815e-3806bae795d3",
+        "columnId": "2de98603-78eb-4eea-8d53-9455a4bb92ad",
+        "rowId": "16a6a19d-a610-4de2-9db9-a195d980143f",
+        "markdown": "Deadline"
       }
     ],
     "bodyCells": [
@@ -116,7 +158,8 @@
         "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
         "dateTime": null,
         "markdown": "TU Munich",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "5566bae8-c48c-48d5-bb32-8250f4334832",
@@ -124,7 +167,8 @@
         "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
         "dateTime": null,
         "markdown": " https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login\nhttps://www.tum.de/en/studies/application/application-info-portal/online-application",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "8ea85e7d-ee0b-4c4b-a8de-c54eb071dfad",
@@ -132,7 +176,8 @@
         "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
         "dateTime": null,
         "markdown": "[[TUM]]",
-        "tagIds": []
+        "tagIds": [],
+        "isExternalLink": true
       },
       {
         "id": "e82db193-6333-4dc9-b500-5ecf24844f83",
@@ -140,6 +185,25 @@
         "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
         "dateTime": null,
         "markdown": "0",
+        "tagIds": [],
+        "isExternalLink": true
+      },
+      {
+        "id": "f39743a9-0f92-49ef-80bc-ee7570060939",
+        "isExternalLink": false,
+        "columnId": "868b4d28-cdb1-4121-bfc0-f941e385c309",
+        "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
+        "dateTime": 1704133800000,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "abf0cbb4-921f-4f65-9a0a-bd8502670913",
+        "isExternalLink": false,
+        "columnId": "2de98603-78eb-4eea-8d53-9455a4bb92ad",
+        "rowId": "f242d1af-b61c-4292-8efb-8b46a3392da2",
+        "dateTime": null,
+        "markdown": "31/03/2024",
         "tagIds": []
       }
     ],
@@ -183,9 +247,29 @@
         "id": "b968fb8e-41ff-4477-8ebe-34086e6bc600",
         "columnId": "4bfa9d40-3e19-41f8-b10f-2b79835de6b8",
         "rowId": "66e4183e-eace-4c67-909b-f695b3fd7fea"
+      },
+      {
+        "id": "81dd2ea6-549b-4348-9557-85f4f09bf14f",
+        "columnId": "868b4d28-cdb1-4121-bfc0-f941e385c309",
+        "rowId": "7e748938-753c-4f12-82dc-eca208fae7ff"
+      },
+      {
+        "id": "dd524fc9-2bb8-49b0-9533-594acb33dfa2",
+        "columnId": "868b4d28-cdb1-4121-bfc0-f941e385c309",
+        "rowId": "66e4183e-eace-4c67-909b-f695b3fd7fea"
+      },
+      {
+        "id": "e832b244-d667-4da0-898d-93d2e72de5da",
+        "columnId": "2de98603-78eb-4eea-8d53-9455a4bb92ad",
+        "rowId": "7e748938-753c-4f12-82dc-eca208fae7ff"
+      },
+      {
+        "id": "0285f7a6-2cf3-4bcd-ae1f-36a17e6e14de",
+        "columnId": "2de98603-78eb-4eea-8d53-9455a4bb92ad",
+        "rowId": "66e4183e-eace-4c67-909b-f695b3fd7fea"
       }
     ],
     "filterRules": []
   },
-  "pluginVersion": "6.18.6"
+  "pluginVersion": "8.0.0"
 }
