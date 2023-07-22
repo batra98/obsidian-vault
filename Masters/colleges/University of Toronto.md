@@ -7,6 +7,7 @@ Application Portal - https://admissions.sgs.utoronto.ca/apply/
 
 You will create a personal profile and begin the submission. Set aside 30-60 minutes to create a personal profile on our online application system, including your personal information and academic history. Please note that you will not be able to make changes to this information after paying the application fee.
 
+Events - https://www.sgs.utoronto.ca/events/
 
 Program Link - https://www.sgs.utoronto.ca/programs/computer-science/
 

@@ -9,7 +9,7 @@ Program Link - https://grad.gatech.edu/degree-programs/computer-science-campus
 Application StartDate - August
 Application Deadline - February 1
 
-The fee for international applicants is $85.
+The fee for international applicants is $105.
 
 ## Requirements
 
