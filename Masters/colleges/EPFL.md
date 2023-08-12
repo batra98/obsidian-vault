@@ -18,7 +18,7 @@ ETH Zurich does not grant application fee waivers under any circumstances.
 #### Standardised Tests
 
 - **TOEFL Requirements**
-	- Institute Code: 9038
+	- Institute Code: 3253
 	- Department Code: NA
 	- Minimum Score Required:
 	    - 100
