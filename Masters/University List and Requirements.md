@@ -13,16 +13,22 @@ University List sorted by countries.
 [[Georgia Tech University]]
 [[University of California, San Diago]]
 [[University of Michigan]]
+[[UMass Amherst]]
 [[University of Pennsylvania]]
-
+[[Carnegie Mellon University.]]
+[[University of Illinois Cabana]]
+[[University of Southern California]]
 
 ## Canadian Universities
 [[University of Toronto]]
+[[University of British Columbia]]
+[[McGill University]]
 
 
 ## European Universities
 [[ETH Zurich]]
 [[TUM]]
+[[EPFL]]
 
 
 ## Asian Universities

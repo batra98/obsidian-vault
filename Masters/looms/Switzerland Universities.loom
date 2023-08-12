@@ -68,7 +68,7 @@
         "width": "263px",
         "type": "date",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "dd/mm/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -80,10 +80,10 @@
         "id": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
         "sortDir": "default",
         "isVisible": true,
-        "width": "140px",
-        "type": "text",
+        "width": "199px",
+        "type": "date",
         "currencyType": "USD",
-        "dateFormat": "mm/dd/yyyy",
+        "dateFormat": "dd/mm/yyyy",
         "shouldWrapOverflow": true,
         "tags": [],
         "calculationType": "none",
@@ -102,13 +102,13 @@
         "id": "64ea302f-a5f0-460f-9b36-012606e05042",
         "index": 0,
         "creationTime": 1687053936989,
-        "lastEditedTime": 1687581095377
+        "lastEditedTime": 1691351324637
       },
       {
         "id": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
         "index": 1,
         "creationTime": 1688743054313,
-        "lastEditedTime": 1688743645728
+        "lastEditedTime": 1691351530341
       }
     ],
     "footerRows": [
@@ -154,7 +154,7 @@
         "id": "6a7fa9a6-2b3b-4100-83a0-bcff21d4c484",
         "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
         "rowId": "810e7a77-6250-412b-b00b-bc953d4e03b0",
-        "markdown": "New Column"
+        "markdown": "Deadline"
       }
     ],
     "bodyCells": [
@@ -253,7 +253,7 @@
         "isExternalLink": false,
         "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
         "rowId": "64ea302f-a5f0-460f-9b36-012606e05042",
-        "dateTime": null,
+        "dateTime": 1702578600000,
         "markdown": "",
         "tagIds": []
       },
@@ -262,7 +262,7 @@
         "isExternalLink": false,
         "columnId": "252cf1a8-b51e-4762-8cb5-9e1b61d1de1d",
         "rowId": "56a5d3b2-e125-44ed-bd0b-0911ee4cce9d",
-        "dateTime": null,
+        "dateTime": 1702578600000,
         "markdown": "",
         "tagIds": []
       }

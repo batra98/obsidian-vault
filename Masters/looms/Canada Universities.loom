@@ -78,7 +78,7 @@
       },
       {
         "id": "b518020e-6f9c-4e8b-aa92-864c607fd3a4",
-        "sortDir": "default",
+        "sortDir": "asc",
         "isVisible": true,
         "width": "140px",
         "type": "date",

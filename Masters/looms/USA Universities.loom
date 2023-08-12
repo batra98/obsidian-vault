@@ -102,7 +102,7 @@
         "id": "feeae460-f959-489d-8b7c-3ebe03894925",
         "index": 0,
         "creationTime": 1686499336458,
-        "lastEditedTime": 1689518587143
+        "lastEditedTime": 1691351843192
       },
       {
         "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
@@ -144,7 +144,7 @@
         "id": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
         "index": 7,
         "creationTime": 1687054209361,
-        "lastEditedTime": 1687054253681
+        "lastEditedTime": 1691351814338
       }
     ],
     "footerRows": [
@@ -280,7 +280,7 @@
         "columnId": "eb5f3099-11ee-492c-83ce-8b14ff5bd3cc",
         "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "https://cs.illinois.edu/academics/graduate/ms-program",
         "tagIds": [],
         "isExternalLink": true
       },
@@ -379,7 +379,7 @@
         "columnId": "b22a2201-fc44-4b65-bdac-54ee26f21fed",
         "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "[[obsidian-vault/Masters/colleges/University of Illinois Cabana|University of Illinois Cabana]]",
         "tagIds": [],
         "isExternalLink": true
       },
@@ -451,7 +451,7 @@
         "columnId": "cb62195c-0356-47ca-9db0-9b4f357bc93e",
         "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
         "dateTime": null,
-        "markdown": "",
+        "markdown": "90",
         "tagIds": [],
         "isExternalLink": true
       },
@@ -487,7 +487,7 @@
         "isExternalLink": false,
         "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
         "rowId": "feeae460-f959-489d-8b7c-3ebe03894925",
-        "dateTime": 1690828200000,
+        "dateTime": 1692037800000,
         "markdown": "",
         "tagIds": []
       },
@@ -550,7 +550,7 @@
         "isExternalLink": false,
         "columnId": "fd3d18cd-f9fc-4493-a9da-553bc6b63668",
         "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
-        "dateTime": null,
+        "dateTime": 1690828200000,
         "markdown": "",
         "tagIds": []
       },
@@ -622,7 +622,7 @@
         "isExternalLink": false,
         "columnId": "e965b590-5763-4cc7-91e0-9df55900a214",
         "rowId": "ef086c0a-3c97-4eaa-b769-3de08d343f23",
-        "dateTime": null,
+        "dateTime": 1702578600000,
         "markdown": "",
         "tagIds": []
       }

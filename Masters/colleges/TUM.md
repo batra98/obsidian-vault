@@ -1,7 +1,5 @@
 ## TUM
 
-Admission is on a competitive basis and **preference will be given to students with IT related job experiences.**
-
 https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Master_Informatik/Overview_assessment_process_MSc_Informatics_and_DEA.pdf
 
 Application Portal - https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login
