@@ -78,7 +78,7 @@
       },
       {
         "id": "e965b590-5763-4cc7-91e0-9df55900a214",
-        "sortDir": "default",
+        "sortDir": "asc",
         "isVisible": true,
         "width": "140px",
         "type": "date",
@@ -99,40 +99,22 @@
     ],
     "bodyRows": [
       {
-        "id": "feeae460-f959-489d-8b7c-3ebe03894925",
-        "index": 0,
-        "creationTime": 1686499336458,
-        "lastEditedTime": 1691351843192
-      },
-      {
-        "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
-        "index": 1,
-        "creationTime": 1686499343266,
-        "lastEditedTime": 1689518599248
-      },
-      {
-        "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
-        "index": 2,
-        "creationTime": 1686500053123,
-        "lastEditedTime": 1689518577972
-      },
-      {
         "id": "b07e4527-c20a-4a62-af02-1ac7f9d45268",
         "index": 3,
         "creationTime": 1687054207389,
         "lastEditedTime": 1689518987003
       },
       {
-        "id": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
-        "index": 4,
-        "creationTime": 1687054255590,
-        "lastEditedTime": 1689611478556
-      },
-      {
         "id": "8eacdaf0-d938-45e0-a8db-d6b752b0075f",
         "index": 5,
         "creationTime": 1687054353309,
         "lastEditedTime": 1689613924573
+      },
+      {
+        "id": "e8e4a38d-eb5d-48c1-ac68-8b74fbacddf3",
+        "index": 4,
+        "creationTime": 1687054255590,
+        "lastEditedTime": 1689611478556
       },
       {
         "id": "1f2ad740-75bc-46d0-b15b-f5310d64c404",
@@ -145,6 +127,24 @@
         "index": 7,
         "creationTime": 1687054209361,
         "lastEditedTime": 1691351814338
+      },
+      {
+        "id": "60fbf776-1bb2-4574-a7e8-f43845771989",
+        "index": 2,
+        "creationTime": 1686500053123,
+        "lastEditedTime": 1689518577972
+      },
+      {
+        "id": "feeae460-f959-489d-8b7c-3ebe03894925",
+        "index": 0,
+        "creationTime": 1686499336458,
+        "lastEditedTime": 1691351843192
+      },
+      {
+        "id": "76495642-0ab1-4427-8c36-d624d31ea81c",
+        "index": 1,
+        "creationTime": 1686499343266,
+        "lastEditedTime": 1689518599248
       }
     ],
     "footerRows": [
@@ -691,5 +691,5 @@
     ],
     "filterRules": []
   },
-  "pluginVersion": "8.0.0"
+  "pluginVersion": "8.1.0"
 }

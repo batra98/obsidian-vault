@@ -1,10 +1,14 @@
 ## Carnegie Mellon University.
 
 
-Application Portal - https://applygrad.cs.cmu.edu/apply/offline.php
+Application Portal - https://admissions.scs.cmu.edu/portal/apply_gr
 
 
 Program Link - https://csd.cmu.edu/academics/masters/admissions 
+
+MSAII - https://msaii.cs.cmu.edu/program-overview
+
+https://www.cs.cmu.edu/academics/application_instructions
 
 - The next application cycle will open Fall 2023 (early September)
 
@@ -18,6 +22,7 @@ We expect all applicants to submit payment with their online application. Howeve
 
 Visit the [SCS Fee Waivers](https://www.cs.cmu.edu/academics/fee-waiver) page.
 
+https://www.cs.cmu.edu/academics/fee-waiver
 ## Requirements
 
 #### Standardised Tests
@@ -38,6 +43,7 @@ Visit the [SCS Fee Waivers](https://www.cs.cmu.edu/academics/fee-waiver) page
 - [[#**Resume/CV**|Resume/CV]] - Please submit in PDF format.
 - [[#**Letters of Recommendation (LOR)** |Three letters of recommendation]] - At least two letters should be from faculty or recent employers.
 - [[#**Unofficial Transcripts** |Transcripts]] - A PDF of your most recent transcript from each college and/or university you attended, even if no degree was granted.
+- A short (1-3 minutes) video of yourself.  Tell us about you and why you are interested in the MSAII program.   This is not a required part of the application process, but it is **STRONGLY** suggested.
 
 
 
@@ -77,3 +83,29 @@ https://ethz.ch/en/studies/master/application/faq.html
 For general questions about applying to master's degree programs in the School of Computer Science contact: [https://www.cs.cmu.edu/about-scs/contact](https://www.cs.cmu.edu/about-scs/contact)
 
 csd-mscs-admissions@cs.cmu.edu
+
+
+#### Fee Waivers
+Do provide fee waivers, email them.
+The School of Computer Science offers graduate application fee waivers for reasons related to financial hardship and to participants of certain programs.
+
+##### Financial Fee Waiver Deadline
+- We will accept financial fee waiver requests starting on **September 6, 2023**.
+- The **final deadline** to submit a financial fee waiver request is **December 6, 2023** at 3 p.m. EST. 
+    - We **will not** consider any late submissions by email.
+
+https://www.cs.cmu.edu/academics/fee-waiver
+
+Clubs - https://www.cmu.edu/scs/women-scs/
+
+
+MSAII Courses - https://msaii.cs.cmu.edu/curriculum-0
+
+- Advanced Machine Learning: Theory & Methods
+	- https://www.cs.cmu.edu/~pradeepr/716/
+- Machine Learning with Large Datasets
+	- https://10605.github.io/
+
+Faculty - https://msaii.cs.cmu.edu/directory/all/154/1
+
+MSCS Courses - https://www.csd.cs.cmu.edu/sites/default/files/2023-08/MSCS%20Handbook%202023-2024.pdf

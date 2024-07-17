@@ -43,6 +43,8 @@ https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/ind
 - **NOTE: Requests to update the Statement of Purpose ***are not granted** after submission. Please carefully double-check edits prior to official submission.**
 
 
+http://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html?_gl=1*1h59jv9*_ga*MTk4OTk3NDQ5OC4xNjg3MDk0NTg2*_ga_PWJGRGMV0T*MTY5NDExMjY3MS41LjEuMTY5NDExMjc3OS4wLjAuMA..
+
 ### Recommendations
 
 - **Three (3) letters of recommendation are required**. Additional letters may be submitted, however, you must submit a minimum of three (3) letters.

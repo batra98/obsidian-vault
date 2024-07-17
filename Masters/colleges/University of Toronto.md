@@ -39,12 +39,17 @@ There is no refund, waiver, or deferral of the application fee.​
 #### Standardised Tests
 
 - **TOEFL Requirements**
-	- Institute Code: 0982
-	- Department Code: NA
-	- Minimum Score Required:
-	    -  Internet-based TOEFL: 93/120 and 22/30 on the writing and speaking sections.
+	- **test of English as a Foreign Language (TOEFL) — Institution and Department Codes**
+	- Institution code: 0982
+	- Department code: 78
 - **GRE Requirements**
-	- Not Required.
+	Submitting GRE results is optional, although good scores can help strengthen your application. Unless you have (or are about to get) a degree from a Canadian university, it is highly encouraged to submit your [GRE test](https://www.ets.org/gre/revised_general/about) scores.
+	
+	**Graduate Record Examination (GRE) — Institution and Department Codes**
+	
+	- Institution code: 0982
+	    
+	- Department code: 0402
 
 
 

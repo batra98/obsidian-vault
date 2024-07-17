@@ -3,12 +3,16 @@
 ### Institute Code - 9038
 ### Department Code: N/A
 
+# **Update CV with School info**
+
 Application Portal - https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en
 
 
 Program Link - https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html
 
 https://inf.ethz.ch/
+
+https://ethz.ch/en/studies/master/application/international-bachelor.html
 
 https://ethz.ch/content/dam/ethz/common/docs/master-profile/englisch/ingenieurwissenschaften/MSc-Computer-Science-Appendix.pdf
 
@@ -59,8 +63,6 @@ ETH Zurich does not grant application fee waivers under any circumstances.
 
 We are looking for excellent students from reputed universities with a strong academic record. Provide an insightful motivation letter - at the most one page long - on why you choose our programme and ETH Zurich.
 
-#### Personal Statement
-Your statement of purpose should concisely explain your motivation and suitability to do [doctoral studies in Computer Science](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) at ETH Zurich. It should describe any past research and teaching experience, identify general areas of research and reflect on two preferred research groups’ work you are interested in to complete the doctoral programme as well as future career plans. No word limit. The statement of purpose replaces the motivation letter of the Master’s degree programme in Computer Science.
 
 
 #### Resume/CV
