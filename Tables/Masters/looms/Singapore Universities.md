@@ -1,4 +1,4 @@
-|    | Cost (SGD)                           | University Name   | Application Opening                            | University Note   | MS CS Link   | New Column   |
-|---:|:-------------------------------------|:------------------|:-----------------------------------------------|:------------------|:-------------|:-------------|
-|  0 | 100 + 67.53                          | True              | National University of Singapore               | True              |              | False        |
-|  1 | [[National University of Singapore]] | True              | https://www.comp.nus.edu.sg/programmes/pg/mcs/ | True              | D            | False        |
+|    | Cost (SGD)                           | University Name   | Application Opening                            | University Note   | MS CS Link   | Deadline   |
+|---:|:-------------------------------------|:------------------|:-----------------------------------------------|:------------------|:-------------|:-----------|
+|  0 | 100 + 67.53                          | True              | National University of Singapore               | True              |              | False      |
+|  1 | [[National University of Singapore]] | True              | https://www.comp.nus.edu.sg/programmes/pg/mcs/ | True              | D            | False      |
