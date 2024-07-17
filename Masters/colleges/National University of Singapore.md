@@ -18,8 +18,8 @@ The deadlines for submission of application forms are as follows:
 
 A S$100 non-refundable application fee (per online application & before prevailing GST) is payable for our MComp programme.
 
-https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/index.html#:~:text=International%20Applicants%3A%20%24155.00,applications%20for%20the%20same%20term.
 
+https://www.comp.nus.edu.sg/programmes/pg/mcs/application/
 ## Requirements
 
 #### Standardised Tests

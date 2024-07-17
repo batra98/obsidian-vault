@@ -1,9 +1,9 @@
 ## University of Southern California
 
-### Institute Code - 9038
+### Institute Code - 4852
 ### Department Code: N/A
 
-Application Portal - https://www.lehrbetrieb.ethz.ch/eApply/ealogin.view?lang=en
+Application Portal - https://usc.liaisoncas.com/applicant-ux/?utm_source=Application_Builder_email&utm_medium=email&utm_campaign=USC_2024_Welcome_Email_app#/login
 
 Sessions: https://viterbigradadmission.usc.edu/events/#online
 
@@ -14,12 +14,14 @@ Program Link - https://viterbigradadmission.usc.edu/programs/masters/msprograms/
 The fee for international applicants is $90.
 
 
+Normal and AI - both
+
 ## Requirements
 
 #### Standardised Tests
 
 - **TOEFL Requirements**
-	- Institute Code: 9038
+	- Institute Code: 4852
 	- Department Code: NA
 	- Minimum Score Required:
 	    - For possible exemption from additional language requirements, you must achieve an Internet Based TOEFL (iBT) score of 90, with no less than 20 on each section.
@@ -69,3 +71,8 @@ Deferral requests will be considered if you have experienced unexpected circumst
 Next Step:
 
 Complete and submit the **[Deferral Request Form](https://viterbigradadmissions.tfaforms.net/forms/view/35/?tfa_dbWorkflowId=4&tfa_dbWorkflowStep=0&tfa_dbWorkflowControl=9006a717a1ced871f67b1065c0b8f7e7)**.  You will receive a confirmation of your submission and further instructions.
+
+
+#### Contact
+viterbi.gradadmission@usc.edu
+www.uscengineer.com

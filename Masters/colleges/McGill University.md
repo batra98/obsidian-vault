@@ -5,6 +5,8 @@
 
 Application Portal - https://www.mcgill.ca/gradapplicants/how-apply
 
+https://www.youtube.com/watch?v=AQ5-LQ0-sEA&t=105s
+
 Program Link - https://www.mcgill.ca/gradapplicants/programs/computer-science
 
 https://www.mcgill.ca/study/2023-2024/faculties/science/graduate/programs/master-science-msc-computer-science-non-thesis#msc-compsc-n_csi5_major_sc
@@ -50,6 +52,12 @@ You can submit up to two applications in the same term to two different programs
 - CV - Both Masters and Ph.D. applicants should include a copy of their CV.
 
 ### Statement of Interest
+
+### What should I include in my personal statement?
+
+For the personal statement, it should include your research interests, and mention which professors you are interested in working with. You can also briefly describe proposed research, any special circumstances or special project you have work on in the past, or any other achievements. It should not exceed one page.
+
+
 - Ph.D. applicants must (and M.Sc. Thesis applicants are strongly encouraged to) provide a statement outlining the objective of their graduate program, i.e., preferred areas of study, potential research interests and proposed supervisors.
 - M.Sc. Non-Thesis applicants have to provide a 1-page statement covering the following aspects:
     - Describe why you are interested in this applied program here at McGill and how it aligns with your career goals.

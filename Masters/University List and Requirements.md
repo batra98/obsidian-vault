@@ -14,7 +14,7 @@ University List sorted by countries.
 [[University of California, San Diago]]
 [[University of Michigan]]
 [[UMass Amherst]]
-[[University of Pennsylvania]]
+[[obsidian-vault/Masters/colleges/University of Pennsylvania]]
 [[Carnegie Mellon University.]]
 [[University of Illinois Cabana]]
 [[University of Southern California]]
@@ -33,6 +33,8 @@ University List sorted by countries.
 
 ## Asian Universities
 [[National University of Singapore]]
+
+
 
 
 

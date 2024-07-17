@@ -20,17 +20,15 @@ The fee for international applicants is $85.
 #### Standardised Tests
 
 - **TOEFL Requirements**
-	- Institute Code: 9038
+	- Institute Code: 3917
 	- Department Code: NA
-	- Minimum Score Required:
-	    - 100
 - **GRE Requirements**
 	- The [GRE test](https://www.ets.org/gre/) is optional for the MS program. Choosing not to submit GRE scores will not harm an applicants chances of admission.
 
 
 
 #### Application Requirements
-- [[#What to write in SOP.|Statement of Purpose]]
+
 - Personal Statement (suggestions below)
     - Share your research and/or industry experiences.
     - Share situations in which you have contributed to computing for the common good or how you plan to in the future.
@@ -51,3 +49,9 @@ The fee for international applicants is $85.
 #### Important FAQ
 https://www.cics.umass.edu/admissions/application-faq
 
+Faculty - https://www.cics.umass.edu/people/tenure-and-teaching
+#### Defer
+
+**Q. Can I defer my offer of admission to a future term?**
+
+A. Yes, students who have been admitted to the MS or PhD program may defer their offer of admission up to one year in the future. Students admitted to the doctoral program must receive approval from their faculty advisor in the form of an email sent to admissns@cs.umass.edu. All graduate students who have confirmed their offer of admission will receive deferral instructions in an email and within the New Student Onboarding course page.

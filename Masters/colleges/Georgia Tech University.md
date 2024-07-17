@@ -6,6 +6,13 @@
 Application Portal - https://gradapp.gatech.edu/apply/
 
 Program Link - https://grad.gatech.edu/degree-programs/computer-science-campus
+
+https://www.cc.gatech.edu/
+https://www.cse.gatech.edu/
+
+
+Name - Computer Science (oncampus) and Computational Science and Engineering (CSE)
+
 Application StartDate - August
 Application Deadline - February 1
 
@@ -73,3 +80,8 @@ If additional materials are needed for your application, the Office of Graduate 
 
 #### Important FAQ
 https://www.cc.gatech.edu/ms-computer-science-admissions-faq
+
+Interesting Labs:
+
+- https://ml.gatech.edu/content/mlgt-labs
+	- https://poloclub.github.io/

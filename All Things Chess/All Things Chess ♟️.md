@@ -1,3 +1,9 @@
+---
+id: All Things Chess ♟️
+aliases: []
+tags: []
+---
+
 
 
 ![Bot](https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/46/1479483765-real-wizards-chess.gif)

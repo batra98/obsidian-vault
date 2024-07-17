@@ -1,4 +1,4 @@
-
+	
 List of awesome cli tools that I use, which are basically efficient alternatives to famous linux commands.
 
 - [`bat`](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting and Git integration.

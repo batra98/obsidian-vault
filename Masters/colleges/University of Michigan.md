@@ -1,5 +1,37 @@
 ## University of Michigan
 
+
+***Upload your curriculum vitae or resume that describes your education, work experience, research publications, teaching experience, professional activities, volunteer activities, community engagement, honors and awards.**
+
+**The following information is required on the header of your Curriculum Vitae/Resume**
+
+- **Write "Curriculum Vitae/Resume" at the top of your document**
+- **Your name**
+- **The name of the graduate program**
+- **Your 8 digit U-M ID (if known)**
+
+
+The Academic Statement of Purpose should be a concise, well-written statement about your academic and research background, your career goals, and how Michigan's graduate program will help you meet your career and educational objectives.
+
+The following information is required in the header of your Academic Statement of Purpose:
+
+- Write "Academic Statement of Purpose" at the top of your document
+- Your name
+- The name of the graduate program
+- Your 8 digit U-M ID (if known)
+
+
+
+The following information is required on the header of your Personal Statement:
+
+- Write "Personal Statement" at the top of your document
+- Your name
+- The name of the graduate program
+- Your 8 digit U-M ID (if known)
+
+**Make sure your margins are set up at one-inch and that any inserted tables fit within those margins to avoid pages being added or removed in your original document(s).** You can also convert your documents to PDF format before uploading.
+
+
 **Once an application has been submitted, it cannot be updated.**
 
 ### Institute Code - 1839
